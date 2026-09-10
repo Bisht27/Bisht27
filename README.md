@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <!-- ========================================================= -->
-<!--                       HERO SECTION                        -->
+<!--                         HERO SECTION                      -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -16,30 +15,22 @@
 <a href="https://github.com/Bisht27">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/deepanshu-bisht-8a73972a6/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:deepanshubisht738@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="YOUR_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="YOUR_WEBSITE">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="./Assets/banner.png" width="900" alt="Coding Setup"/>
+<img src="./Assets/banner.png" width="900" alt="Deepanshu Bisht Banner"/>
 
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                         ABOUT                             -->
-<!-- ========================================================= -->
 
 ## 🚀 About Me
 
@@ -58,70 +49,52 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** focused on b
 
 ---
 
-<!-- ========================================================= -->
-<!--                     TECH STACK                            -->
-<!-- ========================================================= -->
-
 ## 🧰 Tech Stack
 
 ### 🐍 Backend & Programming
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,django,nodejs,express" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,django,nodejs,express" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,linux,bash" />
-</a>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,linux,bash" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
-</a>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-6E56CF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge" />
 </p>
 
 ### 🔧 Tools
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                       FEATURED PROJECTS                    -->
-<!-- ========================================================= -->
 
 ## ⭐ Featured Projects
 
@@ -181,10 +154,6 @@ Machine learning system for predicting solar energy output.
 
 ---
 
-<!-- ========================================================= -->
-<!--                       EXPERIENCE                          -->
-<!-- ========================================================= -->
-
 ## 💼 Experience
 
 ### DevOps Intern — 50Hertz Ltd
@@ -202,15 +171,12 @@ Worked on cloud-native deployment and DevOps automation.
 
 ---
 
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                        -->
-<!-- ========================================================= -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bisht27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisht27&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
@@ -224,10 +190,6 @@ Worked on cloud-native deployment and DevOps automation.
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                    CURRENTLY LEARNING                     -->
-<!-- ========================================================= -->
 
 ## 📚 Currently Learning
 
@@ -245,30 +207,3 @@ Vector Databases
 Cloud Architecture
         ↓
 Production DevOps & SRE
-```
-
----
-
-<div align="center">
-
-⭐️ **Thanks for visiting my profile — let's build something great together!**
-
-</div>
-=======
-## Hi there 👋
-
-<!--
-**Bisht27/Bisht27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 281533a859fb4e3571968505dd26faf872d0d409
